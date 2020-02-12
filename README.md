@@ -1,4 +1,4 @@
-#Computacion_Bioinspirada
+# Computacion Bioinspirada
 
 Algoritmos desarrollados:
 
